@@ -17,7 +17,7 @@ const Navbar = () => {
           <FaDownload />
         </a>
         <a
-          href="https://www.linkedin.com/in/unmesh-pawar-6b182b283/"
+          href="https://www.linkedin.com/in/UnmeshPawar97"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-purple-900"
